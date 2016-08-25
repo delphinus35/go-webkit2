@@ -11,8 +11,8 @@ import (
 
 	"github.com/conformal/gotk3/glib"
 	"github.com/conformal/gotk3/gtk"
-	"github.com/sourcegraph/go-webkit2/webkit2"
-	"github.com/sqs/gojs"
+	"github.com/delphinus35/go-webkit2/webkit2"
+	"github.com/delphinus35/gojs"
 )
 
 func main() {

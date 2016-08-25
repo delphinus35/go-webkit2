@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"runtime"
 
+	"github.com/delphinus35/go-webkit2/webkit2"
+	"github.com/delphinus35/gojs"
 	"github.com/gotk3/gotk3/glib"
 	"github.com/gotk3/gotk3/gtk"
-	"github.com/sourcegraph/go-webkit2/webkit2"
-	"github.com/sqs/gojs"
 )
 
 func Example() {
